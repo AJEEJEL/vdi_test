@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Character Reversal</title>
+</head>
+<body>
+    <div>
+        <label for="inputText">Masukkan karakter:</label>
+        <input type="text" id="inputText" />
+        <button onclick="reverseText()">Balikkan</button>
+    </div>
+    
+    <div>
+        <label for="outputText">Hasil Balik:</label>
+        <span id="outputText"></span>
+    </div>
+
+    <script>
+        function reverseText() {
+            const inputText = document.getElementById("inputText").value;
+            const reversedText = reverseAndSplit(inputText);
+            document.getElementById("outputText").innerText = reversedText;
+        }
+
+        function reverseAndSplit(input) {
+            if (input == null) {
+                throw new Error("Input tidak boleh null.");
+            }
+
+            const length = input.length;
+            const middle = Math.floor(length / 2);
+            let array = input.split('');
+
+            // Balik kiri
+            for (let i = 0; i < middle / 2; i++) {
+                let temp = array[i];
+                array[i] = array[middle - i - 1];
+                array[middle - i - 1] = temp;
+            }
+
+            // Balik kanan
+            for (let i = middle + (length % 2), j = length - 1; i < j; i++, j--) {
+                let temp = array[i];
+                array[i] = array[j];
+                array[j] = temp;
+            }
+
+            return array.join('');
+        }
+    </script>
+</body>
+</html>

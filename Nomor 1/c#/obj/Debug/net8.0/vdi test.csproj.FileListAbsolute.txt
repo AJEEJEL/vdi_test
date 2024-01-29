@@ -1,0 +1,42 @@
+C:\Users\Hazel Saputra\vdi test\obj\Debug\net8.0\vdi test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hazel Saputra\vdi test\obj\Debug\net8.0\vdi test.AssemblyInfoInputs.cache
+C:\Users\Hazel Saputra\vdi test\obj\Debug\net8.0\vdi test.AssemblyInfo.cs
+C:\Users\Hazel Saputra\vdi test\obj\Debug\net8.0\vdi test.csproj.CoreCompileInputs.cache
+C:\Users\Hazel Saputra\vdi test\bin\Debug\net8.0\vdi test.exe
+C:\Users\Hazel Saputra\vdi test\bin\Debug\net8.0\vdi test.deps.json
+C:\Users\Hazel Saputra\vdi test\bin\Debug\net8.0\vdi test.runtimeconfig.json
+C:\Users\Hazel Saputra\vdi test\bin\Debug\net8.0\vdi test.dll
+C:\Users\Hazel Saputra\vdi test\bin\Debug\net8.0\vdi test.pdb
+C:\Users\Hazel Saputra\vdi test\obj\Debug\net8.0\vdi test.dll
+C:\Users\Hazel Saputra\vdi test\obj\Debug\net8.0\refint\vdi test.dll
+C:\Users\Hazel Saputra\vdi test\obj\Debug\net8.0\vdi test.pdb
+C:\Users\Hazel Saputra\vdi test\obj\Debug\net8.0\vdi test.genruntimeconfig.cache
+C:\Users\Hazel Saputra\vdi test\obj\Debug\net8.0\ref\vdi test.dll
+C:\Users\Hazel Saputra\nomor 1 backend\bin\Debug\net8.0\vdi test.exe
+C:\Users\Hazel Saputra\nomor 1 backend\bin\Debug\net8.0\vdi test.deps.json
+C:\Users\Hazel Saputra\nomor 1 backend\bin\Debug\net8.0\vdi test.runtimeconfig.json
+C:\Users\Hazel Saputra\nomor 1 backend\bin\Debug\net8.0\vdi test.dll
+C:\Users\Hazel Saputra\nomor 1 backend\bin\Debug\net8.0\vdi test.pdb
+C:\Users\Hazel Saputra\nomor 1 backend\obj\Debug\net8.0\vdi test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hazel Saputra\nomor 1 backend\obj\Debug\net8.0\vdi test.AssemblyInfoInputs.cache
+C:\Users\Hazel Saputra\nomor 1 backend\obj\Debug\net8.0\vdi test.AssemblyInfo.cs
+C:\Users\Hazel Saputra\nomor 1 backend\obj\Debug\net8.0\vdi test.csproj.CoreCompileInputs.cache
+C:\Users\Hazel Saputra\nomor 1 backend\obj\Debug\net8.0\vdi test.dll
+C:\Users\Hazel Saputra\nomor 1 backend\obj\Debug\net8.0\refint\vdi test.dll
+C:\Users\Hazel Saputra\nomor 1 backend\obj\Debug\net8.0\vdi test.pdb
+C:\Users\Hazel Saputra\nomor 1 backend\obj\Debug\net8.0\vdi test.genruntimeconfig.cache
+C:\Users\Hazel Saputra\nomor 1 backend\obj\Debug\net8.0\ref\vdi test.dll
+C:\Users\Hazel Saputra\vdi test\Nomor 1\c#\bin\Debug\net8.0\vdi test.exe
+C:\Users\Hazel Saputra\vdi test\Nomor 1\c#\bin\Debug\net8.0\vdi test.deps.json
+C:\Users\Hazel Saputra\vdi test\Nomor 1\c#\bin\Debug\net8.0\vdi test.runtimeconfig.json
+C:\Users\Hazel Saputra\vdi test\Nomor 1\c#\bin\Debug\net8.0\vdi test.dll
+C:\Users\Hazel Saputra\vdi test\Nomor 1\c#\bin\Debug\net8.0\vdi test.pdb
+C:\Users\Hazel Saputra\vdi test\Nomor 1\c#\obj\Debug\net8.0\vdi test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hazel Saputra\vdi test\Nomor 1\c#\obj\Debug\net8.0\vdi test.AssemblyInfoInputs.cache
+C:\Users\Hazel Saputra\vdi test\Nomor 1\c#\obj\Debug\net8.0\vdi test.AssemblyInfo.cs
+C:\Users\Hazel Saputra\vdi test\Nomor 1\c#\obj\Debug\net8.0\vdi test.csproj.CoreCompileInputs.cache
+C:\Users\Hazel Saputra\vdi test\Nomor 1\c#\obj\Debug\net8.0\vdi test.dll
+C:\Users\Hazel Saputra\vdi test\Nomor 1\c#\obj\Debug\net8.0\refint\vdi test.dll
+C:\Users\Hazel Saputra\vdi test\Nomor 1\c#\obj\Debug\net8.0\vdi test.pdb
+C:\Users\Hazel Saputra\vdi test\Nomor 1\c#\obj\Debug\net8.0\vdi test.genruntimeconfig.cache
+C:\Users\Hazel Saputra\vdi test\Nomor 1\c#\obj\Debug\net8.0\ref\vdi test.dll
